@@ -108,7 +108,7 @@ const Footer1 = () => {
           </div>
         </div>
       </div> */}
-      <div className="footer-bottom pt-20 pb-5 rpt-25">
+      <div className="footer-bottom bgc-black pt-20 pb-5 rpt-25">
         <div className="container">
           <div className="row">
             <div className="col-lg-6">
@@ -137,18 +137,6 @@ const Footer1 = () => {
           <a href="#" className="scroll-top scroll-to-target d-inline-block">
             <span className="fas fa-angle-double-up" />
           </a>
-        </div>
-        <div className="bg-lines">
-          <span />
-          <span />
-          <span />
-          <span />
-          <span />
-          <span />
-          <span />
-          <span />
-          <span />
-          <span />
         </div>
       </div>
     </footer>

@@ -39,7 +39,7 @@ export default function Home() {
       {/* <Pricing /> */}
       {/* Pricing Area end */}
       {/* Contact Area start */}
-      <Contact />
+      {/* <Contact /> */}
       {/* Contact Area end */}
       {/* Blog Area start */}
       {/* <Blog /> */}
