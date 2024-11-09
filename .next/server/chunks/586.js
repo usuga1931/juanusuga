@@ -1,1 +1,0 @@
-"use strict";exports.id=586,exports.ids=[586],exports.modules={9586:(s,e,t)=>{t.r(e),t.d(e,{default:()=>o});let o=(0,t(8570).createProxy)(String.raw`/Users/juansebastianusugaagudelo/Documents/juanusuga/components/ProjectMasonryIsotop.js#default`)}};

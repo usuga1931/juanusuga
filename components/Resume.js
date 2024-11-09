@@ -29,9 +29,9 @@ const Resume = () => {
                       <i className="far fa-arrow-right" />
                     </div>
                     <div className="content">
-                      <span className="years">2021 - Present</span>
-                      <h4>Lead Product Designer</h4>
-                      <span className="company">Google</span>
+                      <span className="years">2023 - Present</span>
+                      <h4>Full Stack Developer</h4>
+                      <span className="company">Papora</span>
                     </div>
                   </div>
                 </div>
@@ -41,9 +41,9 @@ const Resume = () => {
                       <i className="far fa-arrow-right" />
                     </div>
                     <div className="content">
-                      <span className="years">2016 - 2018</span>
-                      <h4>Junior UX/UI Designer</h4>
-                      <span className="company">LinkedIn</span>
+                      <span className="years">2021 - 2023</span>
+                      <h4>Full Stack Developer</h4>
+                      <span className="company">Integro</span>
                     </div>
                   </div>
                 </div>
@@ -53,9 +53,9 @@ const Resume = () => {
                       <i className="far fa-arrow-right" />
                     </div>
                     <div className="content">
-                      <span className="years">2018 - 2021</span>
-                      <h4>Senior Product Designer</h4>
-                      <span className="company">Webflow</span>
+                      <span className="years">2017 - 2021</span>
+                      <h4>Web Developer</h4>
+                      <span className="company">Dazzet</span>
                     </div>
                   </div>
                 </div>
@@ -65,9 +65,9 @@ const Resume = () => {
                       <i className="far fa-arrow-right" />
                     </div>
                     <div className="content">
-                      <span className="years">2014 - 2016</span>
-                      <h4>Graphics Designer</h4>
-                      <span className="company">Apple</span>
+                      <span className="years">2016 - 2017</span>
+                      <h4>PHP Programmer</h4>
+                      <span className="company">Impag</span>
                     </div>
                   </div>
                 </div>

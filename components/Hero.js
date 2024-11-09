@@ -2,7 +2,7 @@ import Link from "next/link";
 import Counter from "./Counter";
 
 const counterData = [
-  { id: 1, text: "Years Of Experience", value: "13", valueType: "plus" },
+  { id: 1, text: "Years Of Experience", value: "8", valueType: "plus" },
   { id: 2, text: "Project Complete", value: "8", valueType: "k-plus" },
   { id: 3, text: "Client Satisfactions", value: "99", valueType: "percent" },
 ];
@@ -14,9 +14,9 @@ const Hero = () => {
         <div className="row align-items-center">
           <div className="col-lg-4 col-sm-7">
             <div className="hero-content rmb-55 wow fadeInUp delay-0-2s">
-              <span className="h2">Hello, i’m </span>
+              <span className="h2">Hello, I’m </span>
               <h1>
-                <b>Juan Usuga</b> web designer
+                <b>Juan Usuga</b> Full Stack Developer
               </h1>
               <p>
                 We denounce with righteous indignation dislike demoralized by

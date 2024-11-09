@@ -9,23 +9,29 @@ const About = () => {
             <div className="col-lg-7">
               <div className="about-content-part rel z-2 rmb-55">
                 <div className="section-title mb-35 wow fadeInUp delay-0-2s">
-                  <span className="sub-title mb-15">About Me</span>
+                  {/* <span className="sub-title mb-15">About Me</span> */}
                   <h2>
-                    Professional <span>Problem Solutions</span> For Digital
-                    Products
+                    About <span>Me</span>
                   </h2>
                   <p>
-                    At vero eos et accusamus etodio dignissimos ducimus
-                    praesentium voluptatum corrupti quos dolores quas molestias
-                    excepturi sint occaecati cupiditate provident qui officia
-                    deserunt mollitia animi, id est laborum et dolorum
+                    I am a dedicated full stack developer with eight
+                    years of experience specializing in innovative web
+                    technologies. My expertise spans from developing
+                    robust digital solutions to collaborating effectively
+                    in diverse teams. I have a proven track record of
+                    solving complex technical challenges, and my
+                    proactive approach ensures timely and efficient
+                    project delivery. Passionate about continuous
+                    learning, I am committed to staying at the
+                    forefront of industry trends to drive impactful
+                    results and contribute to the growth of the field.
                   </p>
                 </div>
                 <ul className="list-style-one two-column wow fadeInUp delay-0-2s">
-                  <li>Branding &amp; Design</li>
-                  <li>Digital Marketing</li>
-                  <li>Web Development</li>
-                  <li>Product Design</li>
+                  <li>Full Stack Developer</li>
+                  <li>Tech Lead</li>
+                  <li>Mobile Developer</li>
+                  <li>API Developer</li>
                 </ul>
                 <div className="about-info-box mt-25 wow fadeInUp delay-0-2s">
                   <div className="info-box-item">
@@ -33,7 +39,7 @@ const About = () => {
                     <div className="content">
                       <span>Email Us</span>
                       <br />
-                      <a href="mailto:support@gmail.com">support@gmail.com</a>
+                      <a href="mailto:usuga1997@gmail.com">usuga1997@gmail.com</a>
                     </div>
                   </div>
                   <div className="info-box-item">
@@ -41,7 +47,7 @@ const About = () => {
                     <div className="content">
                       <span>Make A Call</span>
                       <br />
-                      <a href="callto:+000(123)45688">+880 (123) 456 88</a>
+                      <a href="callto:+573002412890">(+57) 300 241 2890</a>
                     </div>
                   </div>
                 </div>
@@ -52,12 +58,12 @@ const About = () => {
                 <img src="assets/images/about/about.jpg" alt="About Me" />
                 <div className="about-btn btn-one wow fadeInRight delay-0-4s">
                   <img src="assets/images/about/btn-image1.png" alt="Image" />
-                  <h6>Experience Designer</h6>
+                  <h6>Full Stack Dveloper</h6>
                   <i className="fas fa-arrow-right" />
                 </div>
                 <div className="about-btn btn-two wow fadeInRight delay-0-5s">
                   <img src="assets/images/about/btn-image2.png" alt="Image" />
-                  <h6>Mark J. Collins</h6>
+                  <h6>Juan Sebastian Usuga</h6>
                   <i className="fas fa-arrow-right" />
                 </div>
                 <div className="dot-shape">
