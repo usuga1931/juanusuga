@@ -14,23 +14,17 @@ const Hero = () => {
         <div className="row align-items-center">
           <div className="col-lg-4 col-sm-7">
             <div className="hero-content rmb-55 wow fadeInUp delay-0-2s">
-              <span className="h2">Hello, I’m </span>
+              <span className="h2">Hello, I’m</span>
               <h1>
                 <b>Juan Usuga</b> Full Stack Developer
               </h1>
               <p>
-                We denounce with righteous indignation dislike demoralized by
-                the charms of pleasure
+                First, solve the problem. Then, write the code.
               </p>
               <div className="hero-btns">
-                <Link legacyBehavior href="/contact">
+                <Link legacyBehavior href="/#contact">
                   <a className="theme-btn">
                     Hire Me <i className="far fa-angle-right" />
-                  </a>
-                </Link>
-                <Link legacyBehavior href="/contact">
-                  <a className="read-more">
-                    Download Resume <i className="far fa-angle-right" />
                   </a>
                 </Link>
               </div>

@@ -4,33 +4,43 @@ const Services = ({ extraClass }) => {
   const services = [
     {
       id: 1,
-      title: "Brand Identity Design",
-      text: "Dignissimos ducimus blanditiis praesen",
+      title: "Front-End Development and Design",
+      text: "Creating modern, responsive user interfaces using HTML5, CSS3, SASS, JavaScript, and frameworks like React.js",
     },
     {
       id: 2,
-      title: "Website Design",
-      text: "Dignissimos ducimus blanditiis praesen",
+      title: "Back-End Development and RESTful APIs",
+      text: "Building robust and secure applications and APIs with PHP (Laravel), with a strong focus on performance and scalability.",
     },
     {
       id: 3,
-      title: "Mobile Application Design",
-      text: "Dignissimos ducimus blanditiis praesen",
+      title: "Database Management and Design",
+      text: "Designing and managing relational databases (MySQL, PostgreSQL) to ensure data integrity and efficiency.",
     },
     {
       id: 4,
-      title: "Motion Graphics Design",
-      text: "Dignissimos ducimus blanditiis praesen",
+      title: "WordPress Plugin Development and Customization",
+      text: "Creating custom plugins for WordPress and WooCommerce, tailored to meet clients' specific needs.",
     },
     {
       id: 5,
-      title: "Website Development",
-      text: "Dignissimos ducimus blanditiis praesen",
+      title: "Technical Consulting and Project Planning",
+      text: "Advising on technology selection and designing custom solutions to meet specific business objectives.",
     },
     {
       id: 6,
-      title: "SEO & Digital Marketing",
-      text: "Dignissimos ducimus blanditiis praesen",
+      title: "Technical Leadership and Team Management",
+      text: "Coordinating and leading development teams on large-scale projects, ensuring the implementation of best practices and code quality.",
+    },
+    {
+      id: 7,
+      title: "Testing and Quality Assurance",
+      text: "Implementing automated tests with Cypress.io and other frameworks to ensure application stability and performance.",
+    },
+    {
+      id: 8,
+      title: "User Experience Optimization",
+      text: "Applying usability and performance enhancements to complex applications to maximize user satisfaction.",
     },
   ];
   return (

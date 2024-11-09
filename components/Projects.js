@@ -17,23 +17,23 @@ const Projects = () => {
             </div>
           </div>
         </div>
+
         <div className="row align-items-center pb-25">
           <div className="col-lg-6">
             <div className="project-image wow fadeInLeft delay-0-2s">
-              <img src="assets/images/projects/project1.jpg" alt="Project" />
+              <img src="assets/images/projects/papora-app.png" alt="Project" />
             </div>
           </div>
           <div className="col-xl-5 col-lg-6">
             <div className="project-content wow fadeInRight delay-0-2s">
-              <span className="sub-title">Product Design</span>
-              <h2>
+              <span className="sub-title">Full Stack Developer</span>
+              <h3>
                 <Link legacyBehavior href="project-details">
-                  Mobile Application Design
+                  Development of educational platform
                 </Link>
-              </h2>
+              </h3>
               <p>
-                Sed ut perspiciatis unde omnin natus totam rem aperiam eaque
-                inventore veritatis architecto beatae
+                As the Tech Lead, I lead the development and implementation of a groundbreaking educational platform aimed at enhancing English language learning
               </p>
               <Link legacyBehavior href="/project-details">
                 <a className="details-btn">
@@ -43,23 +43,23 @@ const Projects = () => {
             </div>
           </div>
         </div>
+
         <div className="row align-items-center pb-25">
           <div className="col-lg-6 order-lg-2">
             <div className="project-image wow fadeInLeft delay-0-2s">
-              <img src="assets/images/projects/project2.jpg" alt="Project" />
+              <img src="assets/images/projects/tobreack-app.png" alt="Project" />
             </div>
           </div>
           <div className="col-xl-5 col-lg-6 ms-auto">
             <div className="project-content wow fadeInRight delay-0-2s">
-              <span className="sub-title">Product Design</span>
-              <h2>
+              <span className="sub-title">Full Stack Developer</span>
+              <h3>
                 <Link legacyBehavior href="project-details">
-                  Website Makeup Design
+                  Development of interactive books
                 </Link>
-              </h2>
+              </h3>
               <p>
-                Sed ut perspiciatis unde omnin natus totam rem aperiam eaque
-                inventore veritatis architecto beatae
+                Developed interactive books and audiobooks for a language-learning platform, providing an immersive experience for students in the U.S. and users worldwide.
               </p>
               <Link legacyBehavior href="/project-details">
                 <a className="details-btn">
@@ -69,23 +69,23 @@ const Projects = () => {
             </div>
           </div>
         </div>
+
         <div className="row align-items-center pb-25">
           <div className="col-lg-6">
             <div className="project-image wow fadeInLeft delay-0-2s">
-              <img src="assets/images/projects/project3.jpg" alt="Project" />
+              <img src="assets/images/projects/raton-app.png" alt="Project" />
             </div>
           </div>
           <div className="col-xl-5 col-lg-6">
             <div className="project-content wow fadeInRight delay-0-2s">
-              <span className="sub-title">Product Design</span>
-              <h2>
+              <span className="sub-title">Web Developer</span>
+              <h3>
                 <Link legacyBehavior href="project-details">
-                  Brand Identity and Motion Design
+                  Development of educational platform
                 </Link>
-              </h2>
+              </h3>
               <p>
-                Sed ut perspiciatis unde omnin natus totam rem aperiam eaque
-                inventore veritatis architecto beatae
+                Developed the website for the Ratón de Biblioteca Foundation, focused on providing digital learning options by implementing online access to books and audiobooks.
               </p>
               <Link legacyBehavior href="/project-details">
                 <a className="details-btn">
@@ -94,39 +94,6 @@ const Projects = () => {
               </Link>
             </div>
           </div>
-        </div>
-        <div className="row align-items-center pb-25">
-          <div className="col-lg-6 order-lg-2">
-            <div className="project-image wow fadeInLeft delay-0-2s">
-              <img src="assets/images/projects/project4.jpg" alt="Project" />
-            </div>
-          </div>
-          <div className="col-xl-5 col-lg-6 ms-auto">
-            <div className="project-content wow fadeInRight delay-0-2s">
-              <span className="sub-title">Product Design</span>
-              <h2>
-                <Link legacyBehavior href="project-details">
-                  Mobile Application Development
-                </Link>
-              </h2>
-              <p>
-                Sed ut perspiciatis unde omnin natus totam rem aperiam eaque
-                inventore veritatis architecto beatae
-              </p>
-              <Link legacyBehavior href="/project-details">
-                <a className="details-btn">
-                  <i className="far fa-arrow-right" />
-                </a>
-              </Link>
-            </div>
-          </div>
-        </div>
-        <div className="project-btn text-center wow fadeInUp delay-0-2s">
-          <Link legacyBehavior href="/projects">
-            <a className="theme-btn">
-              View More Projects <i className="far fa-angle-right" />
-            </a>
-          </Link>
         </div>
       </div>
       <div className="bg-lines">

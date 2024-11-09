@@ -2,7 +2,7 @@ const Contact = () => {
   return (
     <section
       id="contact"
-      className="contact-area pt-95 pb-130 rpt-70 rpb-100 rel z-1"
+      className="contact-area bgc-black pt-95 pb-130 rpt-70 rpb-100 rel z-1"
     >
       <div className="container">
         <div className="row">
@@ -142,7 +142,7 @@ const Contact = () => {
           </div>
         </div>
       </div>
-      <div className="bg-lines">
+      {/* <div className="bg-lines">
         <span />
         <span />
         <span />
@@ -153,7 +153,7 @@ const Contact = () => {
         <span />
         <span />
         <span />
-      </div>
+      </div> */}
     </section>
   );
 };

@@ -24,7 +24,7 @@ const Footer1 = () => {
 
   return (
     <footer className="main-footer rel z-1">
-      <div className="footer-top-wrap bgc-black pt-100 pb-75">
+      {/* <div className="footer-top-wrap bgc-black pt-100 pb-75">
         <div className="container">
           <div className="row">
             <div className="col-lg-2 col-md-12">
@@ -107,7 +107,7 @@ const Footer1 = () => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
       <div className="footer-bottom pt-20 pb-5 rpt-25">
         <div className="container">
           <div className="row">
@@ -116,7 +116,7 @@ const Footer1 = () => {
                 <p>
                   Copyright @{date},{" "}
                   <Link legacyBehavior href="/">
-                    Noxfolio
+                    Juan Usuga
                   </Link>{" "}
                   All Rights Reserved
                 </p>
@@ -125,16 +125,10 @@ const Footer1 = () => {
             <div className="col-lg-6 text-lg-end">
               <ul className="footer-bottom-nav">
                 <li>
-                  <a href="#">Facebook</a>
+                  <a href="https://www.linkedin.com/in/jsua1995/" target="_blank" rel="noreferrer">LinkedIn</a>
                 </li>
                 <li>
-                  <a href="#">Twitter</a>
-                </li>
-                <li>
-                  <a href="#">Instagram</a>
-                </li>
-                <li>
-                  <a href="#">LinkedIn</a>
+                  <a href="https://github.com/usuga1931" target="_blank" rel="noreferrer">GitHub</a>
                 </li>
               </ul>
             </div>
