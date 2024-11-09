@@ -1,0 +1,1 @@
+"use strict";exports.id=438,exports.ids=[438],exports.modules={2438:(s,e,t)=>{t.r(e),t.d(e,{default:()=>o});let o=(0,t(8570).createProxy)(String.raw`/Users/juansebastianusugaagudelo/Documents/juanusuga/components/ProjectGridIsotop.js#default`)}};
