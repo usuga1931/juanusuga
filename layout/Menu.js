@@ -109,12 +109,6 @@ export const OnePageMenu = () => {
       <li>
         <a href="#portfolio">projects</a>
       </li>
-      {/* <li>
-        <a href="#blog">blog</a>
-      </li> */}
-      <li>
-        <a href="#contact">Contact</a>
-      </li>
     </ul>
   );
 };

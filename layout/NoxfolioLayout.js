@@ -19,7 +19,7 @@ const NoxfolioLayout = ({
   return (
     <div className="page-wrapper">
       <Header header={header} onePageMenu={onePageMenu} />
-      <SideBar />
+      {/* <SideBar /> */}
       {children}
       {!noFooter && <Footer footer={footer} />}
     </div>
