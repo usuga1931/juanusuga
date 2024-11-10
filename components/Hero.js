@@ -21,13 +21,6 @@ const Hero = () => {
               <p>
                 First, solve the problem. Then, write the code.
               </p>
-              <div className="hero-btns">
-                <Link legacyBehavior href="/#contact">
-                  <a className="theme-btn">
-                    Hire Me <i className="far fa-angle-right" />
-                  </a>
-                </Link>
-              </div>
             </div>
           </div>
           <div className="col-lg-3 col-sm-5 order-lg-3">
