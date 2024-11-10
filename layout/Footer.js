@@ -130,6 +130,9 @@ const Footer1 = () => {
                 <li>
                   <a href="https://github.com/usuga1931" target="_blank" rel="noreferrer">GitHub</a>
                 </li>
+                <li>
+                  <a href="https://wa.me/573002412890?text=Hi%20Juan!%20Got%20a%20great%20app%20idea,%20and%20I'm%20pretty%20sure%20you're%20the%20developer%20superhero%20I'm%20looking%20for!" target="_blank" rel="noreferrer">WhatsApp</a>
+                </li>
               </ul>
             </div>
           </div>

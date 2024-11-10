@@ -82,7 +82,7 @@ const items = [
   {
     id: 14,
     name: "cypress",
-    image: "assets/images/skills/Cypress.png",
+    image: "assets/images/skills/logo-cypress.png",
     value: "88",
   },
   {

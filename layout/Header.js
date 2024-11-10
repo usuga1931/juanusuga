@@ -81,7 +81,7 @@ const Header1 = ({ onePageMenu }) => {
                     toggle ? "show" : ""
                   }`}
                 >
-                  {onePageMenu ? <OnePageMenu /> : <MultiMenu />}
+                  {onePageMenu && <OnePageMenu />}
                 </div>
               </nav>
               {/* Main Menu End*/}
