@@ -3,12 +3,12 @@ import { noxfolioUtilits } from "@/utility";
 import { useEffect } from "react";
 import Footer from "./Footer";
 import Header from "./Header";
-import SideBar from "./SideBar";
+import GoogleAnalytics from "@/components/GoogleAnalytics";
 
 const NoxfolioLayout = ({
   children,
-  header,
   footer,
+  header,
   noFooter,
   onePageMenu,
 }) => {
@@ -18,11 +18,15 @@ const NoxfolioLayout = ({
 
   return (
     <div className="page-wrapper">
+      <GoogleAnalytics />
+
       <Header header={header} onePageMenu={onePageMenu} />
-      {/* <SideBar /> */}
+
       {children}
+
       {!noFooter && <Footer footer={footer} />}
     </div>
   );
 };
+
 export default NoxfolioLayout;
