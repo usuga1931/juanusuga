@@ -28,7 +28,7 @@ const Projects = () => {
             <div className="project-content wow fadeInRight delay-0-2s">
               <span className="sub-title">Full Stack Developer</span>
               <h3>
-                <Link href="https://app.papora.com/login/" rel="noopener noreferrer" target="_blank">
+                <Link href="https://app.papora.com/login/" rel="noopener" target="_blank">
                   Development of educational platform
                 </Link>
               </h3>
@@ -36,7 +36,7 @@ const Projects = () => {
                 As the Tech Lead, I lead the development and implementation of a groundbreaking educational platform aimed at enhancing English language learning
               </p>
               <Link legacyBehavior href="https://app.papora.com/login/" target="_blank">
-                <a className="details-btn" rel="noopener noreferrer" target="_blank">
+                <a className="details-btn" rel="noopener" target="_blank">
                   <i className="far fa-arrow-right" />
                 </a>
               </Link>
@@ -54,7 +54,7 @@ const Projects = () => {
             <div className="project-content wow fadeInRight delay-0-2s">
               <span className="sub-title">Full Stack Developer</span>
               <h3>
-                <Link href="https://learn.tobreak.com/" rel="noopener noreferrer" target="_blank">
+                <Link href="https://learn.tobreak.com/" rel="noopener" target="_blank">
                   Development of interactive books
                 </Link>
               </h3>
@@ -62,7 +62,7 @@ const Projects = () => {
                 Developed interactive books and audiobooks for a language-learning platform, providing an immersive experience for students in the U.S. and users worldwide.
               </p>
               <Link legacyBehavior href="https://learn.tobreak.com/" target="_blank">
-                <a className="details-btn" rel="noopener noreferrer" target="_blank">
+                <a className="details-btn" rel="noopener" target="_blank">
                   <i className="far fa-arrow-right" />
                 </a>
               </Link>
@@ -80,7 +80,7 @@ const Projects = () => {
             <div className="project-content wow fadeInRight delay-0-2s">
               <span className="sub-title">Web Developer</span>
               <h3>
-                <Link href="https://ratondebiblioteca.org/" rel="noopener noreferrer" target="_blank">
+                <Link href="https://ratondebiblioteca.org/" rel="noopener" target="_blank">
                   Development of educational platform
                 </Link>
               </h3>
@@ -88,7 +88,7 @@ const Projects = () => {
                 Developed the website for the Ratón de Biblioteca Foundation, focused on providing digital learning options by implementing online access to books and audiobooks.
               </p>
               <Link legacyBehavior href="https://ratondebiblioteca.org/" target="_blank">
-                <a className="details-btn" rel="noopener noreferrer" target="_blank">
+                <a className="details-btn" rel="noopener" target="_blank">
                   <i className="far fa-arrow-right" />
                 </a>
               </Link>
